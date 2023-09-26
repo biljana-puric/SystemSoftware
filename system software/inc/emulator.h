@@ -1,0 +1,1 @@
+void emulate(char* file);
